@@ -42,6 +42,12 @@ indefinite:
   slackChannel: "#cider"
   status: active
   participants: 34
+- name: Asylum
+  description: Welcome to the hardware asylum! Design your own weather stations, custom NFC tags, and more. Get it shipped to you.
+  website: https://asylum.hackclub.comn
+  slack: https://hackclub.slack.com/archives/C083CCAAHM1
+  slackChannel: "#asylum"
+  status: active
 limitedTime:
 - name: Hackapet
   description: Make a pet game, get a hackable tamagotchi clone!
@@ -63,13 +69,6 @@ limitedTime:
   status: active
   deadline: '2025-01-31T23:59:59'
   participants: 1119
-- name: Asylum
-  description: Fast-paced hardware YSWS challenges.
-  website: 
-  slack: https://hackclub.slack.com/archives/C083CCAAHM1
-  slackChannel: "#asylum"
-  status: active
-  deadline: '2024-12-11T23:59:59'
 - name: BrowserBuddy
   description: Build a Chrome extension, and Hack Club provides $30 to launch it on
     Chrome Web Store.
@@ -238,7 +237,7 @@ completed:
   slackChannel: "#hackpad"
   status: completed
   ended: Ended October 21st
-  participants: 16
+  participants: 174
 - name: Retrospect
   description: Create a DOS game and have it delivered on a floppy disk.
   website: https://retrospect.hackclub.com/
